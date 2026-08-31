@@ -212,6 +212,4 @@
 <url>http://44.204.246.234:8081/repository/maven-releases</url>
 </repository>
 </distributionManagement>
-        </plugins>
-    </build>
 </project>
