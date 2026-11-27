@@ -60,5 +60,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: maven-build-artifact
-          path: target/*.jar
+          path: target/*.war
           retention-days: 7
